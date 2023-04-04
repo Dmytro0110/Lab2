@@ -1,0 +1,12 @@
+.container{
+    background-color: dimgrey;
+    color:black;
+    
+}
+.center{
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    font-size: 1cm;
+    font-family: Arial, Helvetica, sans-serif;
+}
